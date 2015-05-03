@@ -11,3 +11,11 @@ Please take a moment to read http://apple.stackexchange.com/questions/51677/how-
 
 ### The future
 In the future, this package will build your changes automatically once you change them.
+
+### TODO
+- Show all migrations and migrate to a specific database version.
+- Automatically build whenever files get changed.
+- Switch to a different datastore.
+- Switch apps when there are multiple.
+- git push to any of the remotes.
+- Create new files e.g. migrations. Maybe in the context menu instead?

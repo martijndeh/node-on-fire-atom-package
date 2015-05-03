@@ -1,9 +1,9 @@
 {
   "name": "node-on-fire",
   "main": "./lib/firestarter.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
-  "repository": "https://github.com/atom/node-on-fire",
+  "repository": "https://github.com/martijndeh/node-on-fire-atom-package",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
