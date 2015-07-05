@@ -1,0 +1,11 @@
+{
+	"node": true,
+	"unused": true,
+	"smarttabs": true,
+	"-W099": true,
+	"-W079": true,
+	"-W055": true,
+	"undef": true,
+	"shadow": "outer",
+	"multistr": true
+}

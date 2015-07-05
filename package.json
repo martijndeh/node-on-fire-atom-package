@@ -2,13 +2,15 @@
   "name": "node-on-fire",
   "main": "./lib/firestarter.js",
   "version": "0.0.2",
-  "description": "A short description of your package",
+  "description": "Node on Fire package to build, release and run your project.",
   "repository": "https://github.com/martijndeh/node-on-fire-atom-package",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
+    "dotenv-save": "^1.2.0",
+    "pg": "^4.3.0",
     "q": "^1.3.0"
   }
 }
